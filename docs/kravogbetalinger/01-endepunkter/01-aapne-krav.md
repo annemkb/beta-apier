@@ -1,8 +1,6 @@
 # Åpne krav
 
-Hent oversikt over åpne krav og uplasserte innbetalinger.
-
-Gjør oppslag mot reskontrosystemene på åpne krav og uplasserte innbetalinger og oppgir de samlet med en summert oversikt.
+Henter ut alle åpne krav (krav hvor det gjenstår beløp til betaling) og innbetalinger hvor hele/deler av innbetalingen ikke er plassert mot krav, og oppgir de samlet med en summert oversikt.
 
 ## Format på request
 
